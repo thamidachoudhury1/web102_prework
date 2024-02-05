@@ -21,6 +21,17 @@ body {
 
 .stats-container {
     display: flex;
+    background-color:#758190;
+    flex-direction: row;
+    flex-wrap: nowrap ;
+    flex-flow: nowrap;
+    justify-content: center;
+     /*sets cursor to pointer*/
+     cursor: pointer;
+}
+
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
