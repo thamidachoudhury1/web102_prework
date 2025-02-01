@@ -1,34 +1,33 @@
-# WEB102 Prework - *Crowdfunding Here*
+# Android Prework - *SEAMONSTER Crowd Funding*
 
 Submitted by: **Thamida Choudhury**
 
-**Crowdfunding Here** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**SEAMONSTER Crowd Funding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded. 
 
-Time spent: **5** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [x] The introduction section explains the background of the company and how many games remain unfunded.
-* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] Image and introductory message displayed on screen
+* [X] Button displayed on screen
+* [X] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented features:
-
-<img src='assets\PreworkWeb102.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with:
-[ScreenToGif]
-
+<div>
+    <a href="https://www.loom.com/share/d5e36439cc84426ca2d6789b0ed017ba">
+      <p>Loom Message - 31 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d5e36439cc84426ca2d6789b0ed017ba">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d5e36439cc84426ca2d6789b0ed017ba-ce685bbcdb879840-full-play.gif">
+    </a>
+  </div>
+  
 
 ## Notes
 
@@ -36,7 +35,7 @@ I am still getting comfortable using Java when coding so at times I was stuck wi
 
 ## License
 
-    Copyright [2024] [Thamida Choudhury]
+    Copyright [2025] [Thamida Choudhury]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
